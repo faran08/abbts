@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970128881976",
+    "project_id": "abbts-81b1f",
+    "storage_bucket": "abbts-81b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970128881976:android:9151633f657563b26629cd",
+        "android_client_info": {
+          "package_name": "com.example.abbts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970128881976-rjf32q7akg3j9vebi64u1qostsf05mki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abbts",
+            "certificate_hash": "9a60be17430fbaf568d066aabf50d1efc3a5ee4d"
+          }
+        },
+        {
+          "client_id": "970128881976-98r5mlbamskf04p6pcif99kqhepgnknv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Zke8m-daptUB4qKTtiLe4PLm_augxNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970128881976-98r5mlbamskf04p6pcif99kqhepgnknv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
